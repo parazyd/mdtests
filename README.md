@@ -2,11 +2,11 @@ mdtests
 =======
 
 * foo
-	* bar
+  * bar
 
 		this should be a code block
 
 
 * baz
-	* foo
+  * foo
 		maybe this even
